@@ -85,9 +85,6 @@ I don't want no scrub
 A scrub is a guy that can't get no love from me
 Hangin' out the passenger side of his..
 
-[Trackname: Bitter Sweet Symphony - Remastered 2016] [Artist: The Verve]
-nan
-
 [Trackname: Torn] [Artist: Natalie Imbruglia]
 
 I thought I saw a man brought to life
@@ -377,9 +374,6 @@ Save tonight
 Save tonight
 Yeah, that's right?
 
-[Trackname: All I Wanna Do] [Artist: Sheryl Crow]
-nan
-
 [Trackname: She's so High] [Artist: Tal Bachman]
 
 She's blood, flesh, and bone
@@ -472,9 +466,6 @@ With the birds, I'll share this lonely view
 (I will share this lonely)
 With the birds, I'll share this lonely view
 
-
-[Trackname: Say My Name] [Artist: Destiny's Child]
-nan
 
 [Trackname: Iris] [Artist: The Goo Goo Dolls]
 
@@ -594,15 +585,6 @@ But we are young, we run green
 Keep our teeth nice and clean
 See our friends, see the sights
 And feel alright...
-
-[Trackname: Closing Time] [Artist: Semisonic]
-nan
-
-[Trackname: Wonderwall - Remastered] [Artist: Oasis]
-nan
-
-[Trackname: 1979 - Remastered 2012] [Artist: The Smashing Pumpkins]
-nan
 
 [Trackname: Under the Bridge] [Artist: Red Hot Chili Peppers]
 
@@ -840,12 +822,6 @@ Fearless on my breath
 
 You're stumbling in the dark
 You're stumbling in the 
-
-[Trackname: Champagne Supernova - Remastered] [Artist: Oasis]
-nan
-
-[Trackname: Praise You - Radio Edit] [Artist: Fatboy Slim]
-nan
 
 [Trackname: Otherside] [Artist: Red Hot Chili Peppers]
 
@@ -1161,9 +1137,6 @@ Make my way back home when I learn to fly high
 Make my way back home when I learn to fly
 Make my way back home when I learn to...
 
-[Trackname: Kiss Me] [Artist: Sixpence None The Richer]
-nan
-
 [Trackname: Semi-Charmed Life] [Artist: Third Eye Blind]
 
 Doo-doo-doo, doo-doo-doo-doo
@@ -1262,12 +1235,6 @@ Doo-doo-doo, doo-doo-doo-doo
 Doo-doo-doo, doo-doo-doo-doo
 (I want something else)
 
-[Trackname: Two Princes] [Artist: Spin Doctors]
-nan
-
-[Trackname: Californication] [Artist: Red Hot Chili Peppers]
-nan
-
 [Trackname: Loser] [Artist: Beck]
 
 In the time of chimpanzees, I was a monkey
@@ -1330,9 +1297,6 @@ I'm a loser, baby, so why don't you kill me?
 Soy un perdedor
 I'm a loser, baby, so why don't you kill me?
 (Know what I'm sayin'?)
-
-[Trackname: Song 2 - 2012 Remaster] [Artist: Blur]
-nan
 
 [Trackname: Lucky Man] [Artist: The Verve]
 
@@ -1459,9 +1423,6 @@ No, I— (This world is only gonna break your heart)
 (This world is only gonna break your heart)
 
 Nobody loves no 
-
-[Trackname: Don't Look Back In Anger - Remastered] [Artist: Oasis]
-nan
 
 [Trackname: Linger] [Artist: The Cranberries]
 
@@ -1801,9 +1762,6 @@ Turn the lights off, carry me home
 Keep your head still, I'll be your thrill
 (Na-na, na-na, na-na, na-na, na, na)
 The night will go on, the night will go on, my little 
-
-[Trackname: No Rain] [Artist: Blind Melon]
-nan
 
 [Trackname: How Bizarre] [Artist: OMC]
 
@@ -2239,9 +2197,6 @@ Why would you wish that on me?
 
 What's my age again?
 
-[Trackname: Creep] [Artist: Radiohead]
-nan
-
 [Trackname: Lightning Crashes] [Artist: Live]
 
 Lightning crashes, a new mother cries
@@ -2389,9 +2344,6 @@ Talk to me, ooh-ooh, talk to me
 Talk to me, ooh-ooh, talk to me
 Talk to 
 
-[Trackname: Ironic - 2015 Remaster] [Artist: Alanis Morissette]
-nan
-
 [Trackname: Santeria] [Artist: Sublime]
 
 I don't practice Santeria, I ain't got no crystal ball
@@ -2534,9 +2486,6 @@ You're losing your mind again (I tried)
 I tried but you're still the same (I tried)
 I'm losing my baby
 You're losing a saviour and a 
-
-[Trackname: Disarm - 2011 Remaster] [Artist: The Smashing Pumpkins]
-nan
 
 [Trackname: I Try] [Artist: Macy Gray]
 
@@ -2776,9 +2725,6 @@ Around the world, around the world
 Around the world, around the world
 Around the world, around the world
 Around the world, around the 
-
-[Trackname: Tonight, Tonight - Remastered 2012] [Artist: The Smashing Pumpkins]
-nan
 
 [Trackname: One] [Artist: U2]
 
@@ -3108,15 +3054,6 @@ It can't be that bad
 If it makes you happy
 Then why the hell are you so sad?
 Oh, oh-
-
-[Trackname: Black Hole Sun] [Artist: Soundgarden]
-nan
-
-[Trackname: Come As You Are] [Artist: Nirvana]
-nan
-
-[Trackname: Children] [Artist: Robert Miles]
-nan
 
 [Trackname: Alive] [Artist: Pearl Jam]
 
@@ -3567,9 +3504,6 @@ Yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright
 Yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright
 Yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright
 
-[Trackname: Kiss from a Rose] [Artist: Seal]
-nan
-
 [Trackname: Everybody Hurts] [Artist: R.E.M.]
 
 When your day is long
@@ -3857,29 +3791,6 @@ When I come to call
 She won't forsake me
 I'm lovin' angels 
 
-[Trackname: 3AM] [Artist: Matchbox Twenty]
-1. Without You - The Kid LAROI
-2. Without Me - Halsey
-3. Bubblegum Bitch - MARINA
-4. Savage Love - Jason Derulo
-5. Mood - 24kgoldn feat. iann dior
-6. Rockefeller Street - Getter Jaani
-7. Lonely - Justin Bieber feat. Benny Blanco
-8. deja vu - Olivia Rodrigo
-9. drivers license - Olivia Rodrigo
-. Love Is Gone - Slander feat. Dylan Matthews
-. Talking to the Moon - Bruno Mars
-. Astronaut in the Ocean - Masked Wolf
-. 3AM - Matchbox Twenty
-. Unwell - Matchbox Twenty
-. Watermelon Sugar - Harry Styles
-. Put Your Records On - Ritt Momney
-. New Rules - Dua Lipa
-. Beautiful Mistakes - Maroon 5 feat. Megan Thee Staliion
-. Heathens - twenty øne piløts
-. You Broke Me First - Tate McRae
-. Someone to You - 
-
 [Trackname: Here With Me] [Artist: Dido]
 
 I didn't hear you leave
@@ -3944,12 +3855,6 @@ And I won't leave
 And I can't hide
 I cannot be
 Until you're resting here with me
-
-[Trackname: Bullet With Butterfly Wings - Remastered 2012] [Artist: The Smashing Pumpkins]
-nan
-
-[Trackname: Freedom! '90 - Remastered] [Artist: George Michael]
-nan
 
 [Trackname: I Love You Always Forever] [Artist: Donna Lewis]
 
@@ -4086,9 +3991,6 @@ Chances thrown, nothing's free
 Longing for what used to be
 Still, it's hard, hard to see
 Fragile lives, shattered 
-
-[Trackname: Just A Girl] [Artist: No Doubt]
-nan
 
 [Trackname: Lithium] [Artist: Nirvana]
 
@@ -4376,9 +4278,6 @@ I think so
 I will let you go
 I don't mind...
 
-[Trackname: Lovefool] [Artist: The Cardigans]
-nan
-
 [Trackname: Common People - Full Length Version] [Artist: Pulp]
 
 She came from Greece, she had a thirst for knowledge
@@ -4624,9 +4523,6 @@ You might as well be walkin' on the sun
 You might as well be walkin' on the sun
 You might as well be walkin' on the 
 
-[Trackname: Streets of Philadelphia - Single Edit] [Artist: Bruce Springsteen]
-nan
-
 [Trackname: Heart-Shaped Box] [Artist: Nirvana]
 
 She eyes me like a Pisces when I am weak
@@ -4836,9 +4732,6 @@ And I got to, got to know
 Are you going to go my way?
 Because baby I got to know, 
 
-[Trackname: Freed From Desire - prod. Molella, Phil Jay] [Artist: Gala]
-nan
-
 [Trackname: Basket Case] [Artist: Green Day]
 
 Do you have the time to listen to me whine
@@ -4874,61 +4767,6 @@ It all keeps adding up
 I think I'm cracking up
 Am I just paranoid?
 Am I just stoned?
-
-[Trackname: Buddy Holly] [Artist: Weezer]
-nan
-
-[Trackname: Nothing Else Matters (Remastered)] [Artist: Metallica]
-Duman - Dibine Kadar
-Dolu Kadehi Ters Tut - Öylece Durdun
-Yüzyüzeyken Konuşuruz - Sen Varsın Diye
-Perdenin Ardındakiler - Her Gece
-Pinhani - Çok Alıştım Sana
-Madrigal - Dip
-Adamlar - Sarılırım Birine
-maNga - Beni Benimle Bırak
-BTS - Butter
-mor ve ötesi - Cambaz
-Model - Antidepresan Gülümsemesi - Pazarlık
-Yaşlı Amca - Hoş
-Måneskin - I WANNA BE YOUR SLAVE
-Arctic Monkeys -
-The Neighbourhood - Sweater Weather
-Son Feci Bisiklet - Uyku
-Seksendört - Hayir Olamaz
-BLACKPINK - How You Like That
-Mavi Gri - Altüst Olmuşum
-İkilem - Bir Sebebi Var
-Gripin - Belki Çok Da Şey Yapmamak Lazım
-Kendimden Hallice - Sakince Yoruldum
-Athena - Yalan
-Pera - Ben Yağmuru Bilirim
-Imagine Dragons - Wrecked
-Yüksek Sadakat - Haydi Gel İçelim
-Metallica - Nothing Else Matters
-Sakiler - Aşığın Kaderi
-Queen - Another One Bites The Dust - Remastered
-Canbay & Wolker - ÇAKI
-MFÖ - Ele Güne Karşı
-Yedinci Ev - Gezegen
-Büyük Ev Ablukada - HOŞÇAKAL KADAR
-Coldplay - Yellow
-Sufle - İçinde Aşk Var
-Redd - Nefes Bile Almadan
-Kolpa - Beni Aşka İnandır
-Maroon 5 - Memories
-Stray Kids - Thunderous
-Rauf & Faik - Детство
-Linkin Park - In the End
-Zakkum - Hatıran Yeter
-Rammstein - Du hast
-Ezginin Günlügü - Eksik Bir Şey
-Chase Atlantic - Swim
-Twenty One Pilots - Saturday
-$uicideboy$ - ...And to Those I Love, Thanks for Sticking Around
-Nirvana - Smells Like Teen Spirit - Remastered
-Cigarettes After Sex - K.
-Daft Punk - Giorgio by Moroder
 
 [Trackname: The Man Who Sold The World - Live] [Artist: Nirvana]
 
@@ -4966,9 +4804,6 @@ We never lost control
 You're face to face
 With the man who sold the world
 
-
-[Trackname: Brimful Of Asha - Norman Cook Remix Single Version] [Artist: Cornershop]
-nan
 
 [Trackname: Crazy] [Artist: Seal]
 
@@ -5065,9 +4900,6 @@ Giving me more and I'll defy
 '-'
 '-'
 '-'
-
-[Trackname: Waterfalls] [Artist: TLC]
-nan
 
 [Trackname: Thunderstruck] [Artist: AC/DC]
 
@@ -5181,9 +5013,6 @@ Always should be someone to really love
 Oh, oh, oh, oh-oh, oh
 Oh, oh, oh, oh-
 
-[Trackname: Tom's Diner - 7" Version] [Artist: DNA]
-nan
-
 [Trackname: Smells Like Teen Spirit] [Artist: Nirvana]
 
 Load up on guns, bring your friends
@@ -5245,9 +5074,6 @@ A denial, a denial
 A denial, a denial
 A denial, a denial
 A 
-
-[Trackname: Even Flow] [Artist: Pearl Jam]
-nan
 
 [Trackname: November Rain] [Artist: Guns N' Roses]
 
@@ -5574,9 +5400,6 @@ So I ask you what the hell am I doing drinking in L.A. at twenty-six?
 L.A
 L.A
 L.
-
-[Trackname: Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio] [Artist: Eiffel 65]
-nan
 
 [Trackname: All That She Wants] [Artist: Ace of Base]
 
@@ -5920,106 +5743,6 @@ Give it away now
 Give it away now
 Give it away now, 
 
-[Trackname: Runaway Train (2022 Remaster)] [Artist: Soul Asylum]
-nan
-
-[Trackname: The Bomb! (These Sound Fall into My Mind) - Radio Edit] [Artist: The Bucketheads]
-nan
-
-[Trackname: You Oughta Know - 2015 Remaster] [Artist: Alanis Morissette]
-Stevie Nicks - Edge of Seventeen ( Remaster)
-Joan Jett & The Blackhearts - I Love Rock 'N Roll
-Blondie - One Way Or Another
-The Cranberries - Zombie
-4 Non Blondes - What's Up?
-Big Brother & The Holding Company - Piece of My Heart (feat. Janis Joplin)
-Heart - Barracuda
-Pat Benatar - Hit Me With Your Best Shot ( Digital Remaster)
-Alabama Shakes - Don't Wanna Fight
-Amy Winehouse - Back To Black
-K.Flay - Blood In The Cut
-HAIM - The Wire
-Hole - Celebrity Skin
-Tash Sultana - Jungle (Radio Edit)
-Florence + The Machine - Dog Days Are Over
-Saint Agnes - Welcome to Silvertown
-Alanis Morissette - You Oughta Know ( Remaster)
-LP - Lost on You
-Patti Smith - Because the Night
-Joan Jett & The Blackhearts - I Hate Myself for Loving You
-Paramore - Misery Business
-Carly Simon - You're so Vain
-Fleetwood Mac - Dreams ( Remaster)
-Elle King - Ex's & Oh's
-The Cardigans - Lovefool
-Dorothy - Raise Hell
-No Doubt - Just A Girl
-Hannah Wicklund & The Steppin Stones - Bomb Through the Breeze
-The Interrupters - She's Kerosene
-The Ting Tings - Shut Up and Let Me Go
-The Breeders - Cannonball
-Meg Myers - Running Up That Hill
-Annie Lennox - I Put A Spell On You
-Grace Potter & The Nocturnals - Paris (Ooh La La)
-Jade Bird - I Get No Joy
-The Runaways - Cherry Bomb
-Yeah Yeah Yeahs - Heads Will Roll (A-Trak Remix Radio Edit)
-PJ Harvey - Down By The Water
-Bishop Briggs - River
-Fleetwood Mac - Everywhere ( Remaster)
-YONAKA - Teach Me To Fight
-Juliet Simms - It’s A Man’s, Man’s, Man’s World (The Voice Performance)
-Mazzy Star - Fade Into You
-Letters To Cleo - I Want You To Want Me (Soundtrack)
-Halestorm - I Miss The Misery
-The New Respects - Trouble
-Grace Mitchell - Kids (Ain't All Right)
-The Pretty Reckless - Take Me Down
-PVRIS - You and I
-Garbage - #1 Crush
-Joan Jett & The Blackhearts - Crimson and Clover
-Dead Sara - Weatherman
-Bleached - Wednesday Night Melody
-Evanescence - Bring Me To Life
-The Kills - Future Starts Slow
-Björk - Army Of Me
-Jefferson Airplane - Somebody to Love
-Emily Wolfe - Atta Blues
-The Beaches - Give It Up
-'Til Tuesday - Voices Carry (Single Mix)
-Edie Brickell & New Bohemians - What I Am
-Best Coast - Feeling Ok
-The Go-Go's - We Got The Beat (Single Mix)
-Metric - Help I'm Alive
-The Aces - Stuck
-Rilo Kiley - Portions for Foxes
-MS MR - Hurricane
-Luscious Jackson - Naked Eye
-Flyleaf - All Around Me
-Gin Wigmore - Black Sheep
-Marmozets - Captivate You
-Lana Del Rey - Young And Beautiful
-Kendra Morris - Banshee
-Tigress - Power Lines
-First Aid Kit - My Silver Lining
-- Pretend We're Dead
-In This Moment - Oh Lord
-New Years Day - Skeletons
-Eliot Sumner - Halfway To Hell
-Veruca Salt - Seether
-Of Monsters and Men - Crystals
-Joan Jett & The Blackhearts - Cherry Bomb
-Lita Ford - Kiss Me Deadly
-Indigo Girls - Closer to Fine
-Melissa Etheridge - Like The Way I Do
-Lissie - Daughters
-Brandi Carlile - The Story
-Cilver - I'm America
-Kate Bush - This Woman's Work
-BLOXX - Curtains
-The Regrettes - California Friends
-Liz Phair - Never Said (Remastered)
-
 [Trackname: Pretty Fly (For A White Guy)] [Artist: The Offspring]
 
 Gunter glieben glauten globen
@@ -6180,58 +5903,6 @@ Return of the Mack (Watch my flow)
 Return of the Mack (Up and down)
 You know that I'll be back (Round and round)
 
-[Trackname: Enter Sandman (Remastered)] [Artist: Metallica]
-BTS - Butter
-Maroon 5 - Memories
-Imagine Dragons - Follow You
-One Direction - Best Song Ever
-Queen - Bohemian Rhapsody
-The Beatles - Let It Be (Remastered )
-Måneskin - Beggin'
-Arctic Monkeys - Why'd You Only Call Me When You're High?
-Linkin Park - In the End
-BLACKPINK - Ice Cream (with Selena Gomez)
-Twenty One Pilots - Shy Away
-$uicideboy$ - ...And to Those I Love, Thanks for Sticking Around
-The Neighbourhood - Sweater Weather
-Red Hot Chili Peppеrs - Scar Tissue
-AC/DC - Thunderstruck
-Black Eyed Pеas - I Gotta Feeling
-OneRepublic - Someday
-Metallica - Enter Sandman
-Little Mix - Sweet Melody
-Zé Felipe & Os Barões Da Pisadinha - Senta Danada
-The Chainsmokers, ILLENIUM & Lennon Stella - Takeaway
-Glass Animals - Heat Waves
-TWICE - The Feels
-Nirvana - Come As You Are
-Migos - Straightenin
-Banda MS de Sergio Lizárraga - La Casita
-Reik & Maluma - Perfecta
-Grupo Firme - Ya Supérame (En Vivo)
-Green Day - Boulevard of Broken Dreams
-5 Seconds of Summer - Youngblood
-ABBA - Chiquitita
-The Rolling Stones - Start Me Up (Remastered )
-Panic! At The Disco - High Hopes
-Pink Floyd - Wish You Were Here ( Remaster)
-Bob Marley & The Wailers - Is This Love
-Guns N' Roses - Sweet Child O' Mine
-Jorge & Mateus - Namorando Com Saudade
-Internet Money - His & Hers (feat. don Toliver, Lil Uzi Vert & Gunna)
-Tame Impala - Borderline
-Wisin & Yandel, Chris Brown & T-Pain - Algo Me Gusta De Ti
-Daft Punk - One More Time
-Jonas Brothers - Sucker
-Aventura & Bad Bunny - Volví
-- Beautiful Day
-Bring Me The Horizon - DiE4u
-Bon Jovi - It's My Life
-Led Zeppelin - Whole Lotta Love ( Remaster)
-Calibre- A La Antigüita
-Henrique & Juliano - Arranhão (Ao Vivo)
-Stray Kids - Thunderous
-
 [Trackname: Only Wanna Be With You] [Artist: Hootie & The Blowfish]
 
 You and me
@@ -6292,9 +5963,6 @@ I only wanna be with you
 I only wanna be with you
 I only wanna be with you
 I only wanna be with 
-
-[Trackname: To Be With You - 2010 Remastered Version] [Artist: Mr. Big]
-nan
 
 [Trackname: Life Is A Highway] [Artist: Tom Cochrane]
 
@@ -6534,6 +6202,3 @@ Hmmmmm
 He he he he
 C'mon, y'all deep
 Y'all are crazy, 
-
-[Trackname: I Don't Want to Miss a Thing - From "Armageddon" Soundtrack] [Artist: Aerosmith]
-nan
